@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NeonType</string>
+    <string name="tab_studio">Studio</string>
+    <string name="tab_stickers">Stickers</string>
+    <string name="tab_lighting">Lighting</string>
+    <string name="tab_toolbox">Toolbox</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="copied_feedback">Copied!</string>
+    <string name="clear_text">Clear</string>
+    <string name="save_clip">Save</string>
+    <string name="studio_subtitle">Stylish Font Keyboard</string>
+    <string name="preview_placeholder">Tap keys below to type stylish English or বাংলা text…</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="reset_photo">Reset</string>
+</resources>

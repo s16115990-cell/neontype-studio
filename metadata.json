@@ -1,0 +1,8 @@
+{
+  "name": "NeonType Studio",
+  "description": "All-in-One Stylish Font Keyboard \u0026 Creator Text Studio with English \u0026 Bengali Unicode fonts, Emoji \u0026 Sticker Hub, RGB Neon Lighting, and Creator Toolbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
